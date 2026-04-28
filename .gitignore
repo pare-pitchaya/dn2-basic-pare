@@ -1,4 +1,5 @@
 *.txt
+!hello.txt
 dir3/*
 !dir3/.gitkeep
 .env*
