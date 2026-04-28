@@ -1,0 +1,5 @@
+*.txt
+dir3/*
+!dir3/.gitkeep
+.env*
+!.env.example
